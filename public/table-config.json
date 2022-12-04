@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "headings": [
+            {
+                "title": "Name",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "name"
+                }
+            },
+            {
+                "title": "City",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "city"
+                }
+            },
+            {
+                "title": "Email Address",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "email"
+                }
+            },
+            {
+                "title": "Joining Date",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "date"
+                }
+            },
+            {
+                "title": "Role",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "role"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "headings": [
+            {
+                "title": "Name",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "name"
+                }
+            },
+            {
+                "title": "Email Address",
+                "sort": {
+                    "status": false,
+                    "sorted_by": "email"
+                }
+            },
+            {
+                "title": "Role",
+                "sort": {
+                    "status": false,
+                    "sorted_by": "role"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "headings": [
+            {
+                "title": "Joining Date",
+                "sort": {
+                    "status": false,
+                    "sorted_by": "date"
+                }
+            },
+            {
+                "title": "Email Address",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "email"
+                }
+            },
+            {
+                "title": "Role",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "email"
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "headings": [
+            {
+                "title": "Name",
+                "sort": {
+                    "status": false,
+                    "sorted_by": "name"
+                }
+            },
+            {
+                "title": "City",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "city"
+                }
+            },
+            {
+                "title": "Joining Date",
+                "sort": {
+                    "status": false,
+                    "sorted_by": "date"
+                }
+            },
+            {
+                "title": "Role",
+                "sort": {
+                    "status": true,
+                    "sorted_by": "role"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+p{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.table{
+    width: auto !important;
+}
+.size{
+    width: 175px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+}
+.size-email{
+    width: 220px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+}
+.normal-text{
+    padding-left: 10px;
+    text-align: left;
+    padding: 0 8px 0;
+}
+.email-text{
+    padding-left: 10px;
+    text-align: left;
+    color: blue;
+    text-decoration: underline;
+}
+.avatar{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    border: 1px solid #747474;
+    border-radius: 40px;
+}
+.arrow-button{
+    cursor: pointer;
+}
